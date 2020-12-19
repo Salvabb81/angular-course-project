@@ -19,7 +19,7 @@ export class RecipeService {
         new Recipe(
             'Another Test Recipe', 
             'This  is simply a test', 
-            'https://p0.pikist.com/photos/666/25/food-meat-recipe-power-pork-dishes.jpg',
+            'https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=960,872',
             [
                 new Ingredient('Buns', 2),
                 new Ingredient('Meat', 1)
